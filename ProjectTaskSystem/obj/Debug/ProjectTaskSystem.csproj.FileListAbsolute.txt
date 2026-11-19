@@ -1,0 +1,9 @@
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\bin\Debug\ProjectTaskSystem.exe.config
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\bin\Debug\ProjectTaskSystem.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\bin\Debug\ProjectTaskSystem.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.csproj.AssemblyReference.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.Properties.Resources.resources
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.csproj.GenerateResource.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.csproj.CoreCompileInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\Baitap19-11\ProjectTaskSystem\obj\Debug\ProjectTaskSystem.pdb

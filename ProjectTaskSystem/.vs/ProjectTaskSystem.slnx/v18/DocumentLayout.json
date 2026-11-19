@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\gui\\frmduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:gui\\frmduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dto\\phancongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dto\\phancongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dto\\duandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dto\\duandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dto\\congviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dto\\congviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\gui\\frmcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:gui\\frmcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dal\\congviecdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dal\\congviecdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\bus\\congviecbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:bus\\congviecbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\bus\\duanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:bus\\duanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dal\\duandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dal\\duandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\gui\\frmphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:gui\\frmphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\gui\\frmthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:gui\\frmthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\bus\\phancongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:bus\\phancongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\baitap19-11\\projecttasksystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{497EB9C9-9622-4F93-8018-69350BF1B598}|ProjectTaskSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCongViec.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmCongViec.cs",
+              "RelativeDocumentMoniker": "GUI\\frmCongViec.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmCongViec.cs",
+              "RelativeToolTip": "GUI\\frmCongViec.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwGMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:26:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDuAn.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmDuAn.cs",
+              "RelativeDocumentMoniker": "GUI\\frmDuAn.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmDuAn.cs",
+              "RelativeToolTip": "GUI\\frmDuAn.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:25:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DuAnBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\DuAnBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\DuAnBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\DuAnBUS.cs",
+              "RelativeToolTip": "BUS\\DuAnBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:14:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CongViecDAL.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\CongViecDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CongViecDAL.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\CongViecDAL.cs",
+              "RelativeToolTip": "DAL\\CongViecDAL.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:11:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CongViecDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\CongViecDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CongViecDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\CongViecDTO.cs",
+              "RelativeToolTip": "DTO\\CongViecDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:09:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuAnDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\DuAnDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DuAnDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\DuAnDTO.cs",
+              "RelativeToolTip": "DTO\\DuAnDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:09:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhanCongDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\PhanCongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhanCongDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\PhanCongDTO.cs",
+              "RelativeToolTip": "DTO\\PhanCongDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:09:51.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnection.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "DAL\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:10:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DuAnDAL.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\DuAnDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DuAnDAL.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\DuAnDAL.cs",
+              "RelativeToolTip": "DAL\\DuAnDAL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:11:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhanCongBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\PhanCongBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\PhanCongBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\PhanCongBUS.cs",
+              "RelativeToolTip": "BUS\\PhanCongBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:14:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CongViecBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\CongViecBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\CongViecBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\CongViecBUS.cs",
+              "RelativeToolTip": "BUS\\CongViecBUS.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:14:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\frmMain.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmMain.cs",
+              "RelativeToolTip": "GUI\\frmMain.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAEwGwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:25:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmThanhVien.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmThanhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frmThanhVien.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmThanhVien.cs",
+              "RelativeToolTip": "GUI\\frmThanhVien.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAUwP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:26:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPhanCong.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmPhanCong.cs",
+              "RelativeDocumentMoniker": "GUI\\frmPhanCong.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\GUI\\frmPhanCong.cs",
+              "RelativeToolTip": "GUI\\frmPhanCong.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAUwCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:26:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:27:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThanhVienDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\ThanhVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ThanhVienDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DTO\\ThanhVienDTO.cs",
+              "RelativeToolTip": "DTO\\ThanhVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:09:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThanhVienDAL.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\ThanhVienDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ThanhVienDAL.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\ThanhVienDAL.cs",
+              "RelativeToolTip": "DAL\\ThanhVienDAL.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:11:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThanhVienBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\ThanhVienBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\ThanhVienBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\BUS\\ThanhVienBUS.cs",
+              "RelativeToolTip": "BUS\\ThanhVienBUS.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:14:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhanCongDAL.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\PhanCongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhanCongDAL.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\DAL\\PhanCongDAL.cs",
+              "RelativeToolTip": "DAL\\PhanCongDAL.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:11:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\Baitap19-11\\ProjectTaskSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:05:17.797Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
