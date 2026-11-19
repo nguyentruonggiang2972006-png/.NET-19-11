@@ -5,7 +5,7 @@
 - **Mã số sinh viên:** 24810310200
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình .NET
-- **Nội dung:** bài tập thực hành 12-11
+- **Nội dung:** bài tập thực hành 19-11
 
 ---
 
